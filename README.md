@@ -1,6 +1,23 @@
 # fridaytheproject
+This repository contains the design-only Flutter implementation, showcasing the core user interface and navigation flow of the app. The focus is on layout, user experience, and visual storytelling rather than backend logic or production integrations.
 
-A new Flutter project.
+What’s included
+
+A dark, youth-focused UI built with Flutter
+
+Splash / startup experience
+
+Bottom navigation with core sections: Home, Launch, Outside, Connect, Memories, and Profile
+
+A Home screen featuring:
+
+A search bar for places, vibes, and stories
+
+Mock “friends outside” story previews
+
+A map-style section with pinned locations and simulated crowd capacity (e.g. Long Street, Cape Town)
+
+Clean project structure following Flutter best practices
 
 ## Getting Started
 
